@@ -21,3 +21,8 @@ h1 {
 h3 {
     color: #66BFBF;
 }
+
+.responsive{
+    width: 100%;
+    height: auto;
+}
